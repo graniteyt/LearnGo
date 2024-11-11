@@ -1,2 +1,2 @@
 # Test-Go
- Test program in Go
+Первая 'программа' на Go.
