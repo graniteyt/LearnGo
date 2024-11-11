@@ -6,7 +6,7 @@
 
 
 
-<a href="#contribute">Contribute</a> 
+<a href="CONTRIBUTING.md">Contribute</a> 
 </p>
 
 
