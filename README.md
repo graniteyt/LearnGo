@@ -15,9 +15,6 @@
 </p>
 
 
-
-<h2 id="layout">🎨 Layout</h2>
-
 <p align="center">
 
 <img src="https://miro.medium.com/v2/resize:fit:2000/1*8bPiDNL1K1ZdK9O_T5IVKw.png" alt="Random Image" width="400px">
@@ -29,11 +26,11 @@
 
 - [Go](https://go.dev/)
 
-<h3>Cloning</h3>
+<h3>Клонирование</h3>
 
 `git clone https://github.com/ваш_username/Learn-Go.git`
 
-<h3>Starting</h3>
+<h3>Начало</h3>
 
 Затем вы можете изучать код в папке Test и запускать его, используя Go компилятор:
 
