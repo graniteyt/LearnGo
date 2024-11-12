@@ -2,12 +2,8 @@
 
 <h1 align="center" style="font-weight: bold;">Learn Go</h1>
 
-<p align="center">
+<p align="center"><a href="CONTRIBUTING.md">Contribute</a></p>
 
-
-
-<a href="#contribute">Contribute</a> 
-</p>
 
 
 <p align="center">Этот репозиторий создан для документирования моего обучения языку программирования Go. Здесь я буду хранить примеры кода, упражнения и проекты по мере моего продвижения.
