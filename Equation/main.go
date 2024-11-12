@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"math"
+	"os"
 )
 
 func main() {
@@ -36,5 +37,17 @@ func main() {
 		fmt.Println("X: " + fmt.Sprint(x1))
 	} else if D < 0 {
 		fmt.Println("Ваше уравнение не имеет корней \nD < 0\nD = " + fmt.Sprint(D))
+	}
+
+	var quit string
+
+	fmt.Println("Закрыть программу?")
+	fmt.Scan(&quit)
+
+	if quit == "нет" {
+		fmt.Scan(&a)
+		fmt.Println("Alr")
+	} else {
+		os.Exit(0)
 	}
 }
